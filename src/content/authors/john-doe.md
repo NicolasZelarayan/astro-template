@@ -1,11 +1,11 @@
 ---
-title: John Doe
+title: Nicolas Zelarayan
 image: /images/authors/john-doe.jpg
-description: this is meta description
+description: Web Developer and SRE
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/
   instagram: https://www.instagram.com/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Hola! soy tecnico universitario en programacion, especializado en desarrollo web, en este proyecto nos dedicamos a acercar soluciones digitales a quines deseen contar con nuestros servicios, no dudes en contarnos tus ideas para ayudarte a llegar a verlas hecha realidad.
