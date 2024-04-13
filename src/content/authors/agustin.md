@@ -1,5 +1,5 @@
 ---
-title: Mark Dinn
+title: Agustin Gomez Aranda
 image: /images/authors/mark-dinn.jpg
 description: this is meta description
 social:
@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Programador especializado en desarrollo Frontend y diseño web, apasaionado por la tecnologia y la innovacion
