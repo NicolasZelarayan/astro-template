@@ -5,7 +5,7 @@ image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Productos que pueden interesarte"
   items:
   - title: "Diseño Grafico"
     description: "Equipo de Artistas Graficos para ayudarte en cada diseño para tu empresa"
