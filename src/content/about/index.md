@@ -8,19 +8,19 @@ what_i_do:
   title: "What I Do"
   items:
   - title: "Diseño Grafico"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+    description: "Equipo de Artistas Graficos para ayudarte en cada diseño para tu empresa"
   
   - title: "Diseño Web"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+    description: "Contamos con gran cantidad de recursos para que puedas tener tu sitio web en poco tiempo "
   
   - title: "Soporte Tecnico"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+    description: "Especialistas en Soporte Tecnico para trabajar juntos en cada paso que tu empresa lo necesite"
   
   - title: "Software Especializado"
-    description: "Diseño e implementacion de Software"
-
+    description: "Diseño e implementacion de Software segun tus necesidades"
+  
+  - title: "Infraestructura"
+    description: "Te asesoramos y colaboramos en la implementacion de la infraestructura adecuada para tu proyecto"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+En Digital Mirage contamos con un equipo de Especialistas dispuestos a colaborar en tu proyecto y resolver tus dudas, no dudes en contactarnos si necesitas una solucion rapida y eficaz para posicionar tu emprendimiento en Internet.

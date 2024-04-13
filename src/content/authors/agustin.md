@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Programador especializado en desarrollo Frontend y diseño web, apasaionado por la tecnologia y la innovacion
+Soy Agustin, un Programador especializado en desarrollo Frontend y diseño web, apasaionado por la tecnologia y la innovacion, me encantaria trabajar juntos para alcanzar tus metas.

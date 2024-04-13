@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Hola! soy tecnico universitario en programacion, especializado en desarrollo web, en este proyecto nos dedicamos a acercar soluciones digitales a quines deseen contar con nuestros servicios, no dudes en contarnos tus ideas para ayudarte a llegar a verlas hecha realidad.
+Que bueno verte por aqui, mi nombre es Nicolas Zelarayan, soy tecnico universitario en programacion, especializado en desarrollo web e implementacion de proyectos.

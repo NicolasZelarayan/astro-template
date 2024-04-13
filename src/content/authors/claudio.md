@@ -8,5 +8,5 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Hola! soy Claudio, soy diseñador grafico
-Me especializo en arte digital
+Hola! mi nombre es Claudio Zelarayan, soy diseñador grafico
+Me especializo en arte digital 
