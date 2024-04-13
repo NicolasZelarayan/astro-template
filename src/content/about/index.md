@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Digital Mirage Soluciones Informaticas"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
